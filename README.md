@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me
 Hi, I'm Tushar Navale<br><br>Founder & CEO at SinovaX Agency Pvt. Ltd.<br><br>I build scalable digital products, AI-powered software, and intelligent automation systems for startups and global businesses.<br>Focused on turning ideas into real, production-ready solutions with strong product thinking and execution.
 
 
